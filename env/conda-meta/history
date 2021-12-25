@@ -122,3 +122,8 @@
 +defaults/win-64::zlib-1.2.11-h62dcd97_4
 +defaults/win-64::zstd-1.4.9-h19a0ad4_0
 # update specs: ['scikit-learn', 'numpy', 'pandas', 'matplotlib', 'jupyter', 'notebook']
+==> 2021-12-24 19:49:01 <==
+# cmd: C:\Users\Ashu\anaconda3\Scripts\conda-script.py install --yes --prefix C:\Users\Ashu\Desktop\Intro_ML_LIb\env seaborn
+# conda version: 4.10.3
++defaults/noarch::seaborn-0.11.2-pyhd3eb1b0_0
+# update specs: ['seaborn']
